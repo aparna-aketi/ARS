@@ -8,6 +8,7 @@ Presently, state-of-the-art decentralized learning algorithms typically require 
 * MobileNet-V2
 * ResNet
 * VGG11
+* LeNet-5
 
 # Requirements
 * found in env.yml file
